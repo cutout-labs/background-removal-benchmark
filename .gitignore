@@ -1,0 +1,4 @@
+images/originals/
+results/*/
+.env*
+__pycache__/

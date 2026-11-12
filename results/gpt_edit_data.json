@@ -1,0 +1,3602 @@
+{
+ "A09": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 33747.8,
+   "bytes": 509898,
+   "width": 1254,
+   "height": 1254,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1548,
+    "input_tokens_details": {
+     "image_tokens": 1521,
+     "text_tokens": 27
+    },
+    "output_tokens": 2058,
+    "output_tokens_details": {
+     "image_tokens": 2058,
+     "text_tokens": 0
+    },
+    "total_tokens": 3606
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1254x1254"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the spray bottle on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 34059.4,
+   "bytes": 569945,
+   "width": 1254,
+   "height": 1254,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1548,
+    "input_tokens_details": {
+     "image_tokens": 1521,
+     "text_tokens": 27
+    },
+    "output_tokens": 2058,
+    "output_tokens_details": {
+     "image_tokens": 2058,
+     "text_tokens": 0
+    },
+    "total_tokens": 3606
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1254x1254"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the spray bottle on a clean transparent background."
+  }
+ },
+ "A01": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 33631.7,
+   "bytes": 1563409,
+   "width": 1122,
+   "height": 1402,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1533,
+    "input_tokens_details": {
+     "image_tokens": 1505,
+     "text_tokens": 28
+    },
+    "output_tokens": 1630,
+    "output_tokens_details": {
+     "image_tokens": 1630,
+     "text_tokens": 0
+    },
+    "total_tokens": 3163
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1122x1402"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the pair of sneakers on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 39951.8,
+   "bytes": 1809780,
+   "width": 1122,
+   "height": 1402,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1533,
+    "input_tokens_details": {
+     "image_tokens": 1505,
+     "text_tokens": 28
+    },
+    "output_tokens": 1630,
+    "output_tokens_details": {
+     "image_tokens": 1630,
+     "text_tokens": 0
+    },
+    "total_tokens": 3163
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1122x1402"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the pair of sneakers on a clean transparent background."
+  }
+ },
+ "A02": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 29057.2,
+   "bytes": 1029317,
+   "width": 1039,
+   "height": 1514,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1532,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 28
+    },
+    "output_tokens": 1415,
+    "output_tokens_details": {
+     "image_tokens": 1415,
+     "text_tokens": 0
+    },
+    "total_tokens": 2947
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1039x1514"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the maroon sneaker on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 45269.7,
+   "bytes": 1399451,
+   "width": 1225,
+   "height": 1284,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1532,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 28
+    },
+    "output_tokens": 1930,
+    "output_tokens_details": {
+     "image_tokens": 1930,
+     "text_tokens": 0
+    },
+    "total_tokens": 3462
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1225x1284"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the maroon sneaker on a clean transparent background."
+  }
+ },
+ "A03": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 28301.8,
+   "bytes": 1066235,
+   "width": 1024,
+   "height": 1535,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1530,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 26
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2902
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1535"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the headphones on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 29481.4,
+   "bytes": 1435169,
+   "width": 1215,
+   "height": 1295,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1530,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 26
+    },
+    "output_tokens": 858,
+    "output_tokens_details": {
+     "image_tokens": 858,
+     "text_tokens": 0
+    },
+    "total_tokens": 2388
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1215x1295"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the headphones on a clean transparent background."
+  }
+ },
+ "A04": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 25797.4,
+   "bytes": 1278168,
+   "width": 941,
+   "height": 1672,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1534,
+    "input_tokens_details": {
+     "image_tokens": 1508,
+     "text_tokens": 26
+    },
+    "output_tokens": 515,
+    "output_tokens_details": {
+     "image_tokens": 515,
+     "text_tokens": 0
+    },
+    "total_tokens": 2049
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "941x1672"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the headphones on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 31165.3,
+   "bytes": 1437830,
+   "width": 1122,
+   "height": 1402,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1534,
+    "input_tokens_details": {
+     "image_tokens": 1508,
+     "text_tokens": 26
+    },
+    "output_tokens": 744,
+    "output_tokens_details": {
+     "image_tokens": 744,
+     "text_tokens": 0
+    },
+    "total_tokens": 2278
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1122x1402"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the headphones on a clean transparent background."
+  }
+ },
+ "A05": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 31477.8,
+   "bytes": 2258529,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1531,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 27
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2903
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the wristwatch on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 50687.6,
+   "bytes": 2029649,
+   "width": 1242,
+   "height": 1266,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1531,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 27
+    },
+    "output_tokens": 2015,
+    "output_tokens_details": {
+     "image_tokens": 2015,
+     "text_tokens": 0
+    },
+    "total_tokens": 3546
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1242x1266"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the wristwatch on a clean transparent background."
+  }
+ },
+ "A06": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 32720.3,
+   "bytes": 2334676,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1484,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 27
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2856
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the wristwatch on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 31629.6,
+   "bytes": 1635463,
+   "width": 1199,
+   "height": 1312,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1484,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 27
+    },
+    "output_tokens": 829,
+    "output_tokens_details": {
+     "image_tokens": 829,
+     "text_tokens": 0
+    },
+    "total_tokens": 2313
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1199x1312"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the wristwatch on a clean transparent background."
+  }
+ },
+ "A07": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 28013.0,
+   "bytes": 1932351,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2855
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the backpack on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 35758.1,
+   "bytes": 2322261,
+   "width": 1310,
+   "height": 1201,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 830,
+    "output_tokens_details": {
+     "image_tokens": 830,
+     "text_tokens": 0
+    },
+    "total_tokens": 2313
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1310x1201"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the backpack on a clean transparent background."
+  }
+ },
+ "A08": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 33062.9,
+   "bytes": 2175286,
+   "width": 1535,
+   "height": 1025,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1531,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 27
+    },
+    "output_tokens": 1373,
+    "output_tokens_details": {
+     "image_tokens": 1373,
+     "text_tokens": 0
+    },
+    "total_tokens": 2904
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1535x1025"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the two backpacks on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 37066.9,
+   "bytes": 2226559,
+   "width": 1535,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1531,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 27
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2903
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1535x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the two backpacks on a clean transparent background."
+  }
+ },
+ "A10": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 29630.0,
+   "bytes": 1070328,
+   "width": 1448,
+   "height": 1086,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1481,
+    "input_tokens_details": {
+     "image_tokens": 1452,
+     "text_tokens": 29
+    },
+    "output_tokens": 686,
+    "output_tokens_details": {
+     "image_tokens": 686,
+     "text_tokens": 0
+    },
+    "total_tokens": 2167
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1448x1086"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the two dropper bottles on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 39534.0,
+   "bytes": 1262767,
+   "width": 1448,
+   "height": 1086,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1481,
+    "input_tokens_details": {
+     "image_tokens": 1452,
+     "text_tokens": 29
+    },
+    "output_tokens": 1544,
+    "output_tokens_details": {
+     "image_tokens": 1544,
+     "text_tokens": 0
+    },
+    "total_tokens": 3025
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1448x1086"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the two dropper bottles on a clean transparent background."
+  }
+ },
+ "B01": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 23589.4,
+   "bytes": 1200847,
+   "width": 1025,
+   "height": 1535,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1531,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 27
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2132
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1025x1535"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white vase on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 26446.9,
+   "bytes": 1186111,
+   "width": 1234,
+   "height": 1274,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1531,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 27
+    },
+    "output_tokens": 886,
+    "output_tokens_details": {
+     "image_tokens": 886,
+     "text_tokens": 0
+    },
+    "total_tokens": 2417
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1234x1274"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white vase on a clean transparent background."
+  }
+ },
+ "B02": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 35498.1,
+   "bytes": 734327,
+   "width": 1402,
+   "height": 1122,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1532,
+    "input_tokens_details": {
+     "image_tokens": 1505,
+     "text_tokens": 27
+    },
+    "output_tokens": 1630,
+    "output_tokens_details": {
+     "image_tokens": 1630,
+     "text_tokens": 0
+    },
+    "total_tokens": 3162
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1402x1122"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white vase on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 31428.3,
+   "bytes": 795317,
+   "width": 1402,
+   "height": 1122,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1532,
+    "input_tokens_details": {
+     "image_tokens": 1505,
+     "text_tokens": 27
+    },
+    "output_tokens": 1630,
+    "output_tokens_details": {
+     "image_tokens": 1630,
+     "text_tokens": 0
+    },
+    "total_tokens": 3162
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1402x1122"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white vase on a clean transparent background."
+  }
+ },
+ "B03": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 30656.4,
+   "bytes": 2689678,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1485,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 28
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2857
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white textured vase on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 47454.7,
+   "bytes": 2303028,
+   "width": 1188,
+   "height": 1324,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1485,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 28
+    },
+    "output_tokens": 1844,
+    "output_tokens_details": {
+     "image_tokens": 1844,
+     "text_tokens": 0
+    },
+    "total_tokens": 3329
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1188x1324"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white textured vase on a clean transparent background."
+  }
+ },
+ "B04": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 26591.3,
+   "bytes": 1408376,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1486,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 29
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2087
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white vase with eucalyptus on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 24916.8,
+   "bytes": 1331220,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1486,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 29
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2087
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white vase with eucalyptus on a clean transparent background."
+  }
+ },
+ "B05": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 29798.8,
+   "bytes": 2120332,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1487,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 30
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2859
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white candle in its holder on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 43476.8,
+   "bytes": 1403036,
+   "width": 1233,
+   "height": 1276,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1487,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 30
+    },
+    "output_tokens": 1973,
+    "output_tokens_details": {
+     "image_tokens": 1973,
+     "text_tokens": 0
+    },
+    "total_tokens": 3460
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1233x1276"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white candle in its holder on a clean transparent background."
+  }
+ },
+ "B06": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 20444.2,
+   "bytes": 800732,
+   "width": 1517,
+   "height": 1037,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1532,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 28
+    },
+    "output_tokens": 629,
+    "output_tokens_details": {
+     "image_tokens": 629,
+     "text_tokens": 0
+    },
+    "total_tokens": 2161
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1517x1037"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the four white candles on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 33319.3,
+   "bytes": 658707,
+   "width": 1517,
+   "height": 1037,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1532,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 28
+    },
+    "output_tokens": 1415,
+    "output_tokens_details": {
+     "image_tokens": 1415,
+     "text_tokens": 0
+    },
+    "total_tokens": 2947
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1517x1037"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the four white candles on a clean transparent background."
+  }
+ },
+ "B07": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 31142.1,
+   "bytes": 1114928,
+   "width": 1535,
+   "height": 1025,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1534,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 30
+    },
+    "output_tokens": 1373,
+    "output_tokens_details": {
+     "image_tokens": 1373,
+     "text_tokens": 0
+    },
+    "total_tokens": 2907
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1535x1025"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the stack of folded t-shirts on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 25116.0,
+   "bytes": 1227937,
+   "width": 1535,
+   "height": 1025,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1534,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 30
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2135
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1535x1025"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the stack of folded t-shirts on a clean transparent background."
+  }
+ },
+ "B08": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 22058.6,
+   "bytes": 868418,
+   "width": 1535,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1533,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 29
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2134
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1535x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the earbuds and their case on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 25704.2,
+   "bytes": 883821,
+   "width": 1535,
+   "height": 1025,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1533,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 29
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2134
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1535x1025"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the earbuds and their case on a clean transparent background."
+  }
+ },
+ "C01": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 18987.3,
+   "bytes": 779843,
+   "width": 1593,
+   "height": 987,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1497,
+    "input_tokens_details": {
+     "image_tokens": 1470,
+     "text_tokens": 27
+    },
+    "output_tokens": 572,
+    "output_tokens_details": {
+     "image_tokens": 572,
+     "text_tokens": 0
+    },
+    "total_tokens": 2069
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1593x987"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white mug on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 32883.1,
+   "bytes": 1219001,
+   "width": 1372,
+   "height": 1147,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1497,
+    "input_tokens_details": {
+     "image_tokens": 1470,
+     "text_tokens": 27
+    },
+    "output_tokens": 1716,
+    "output_tokens_details": {
+     "image_tokens": 1716,
+     "text_tokens": 0
+    },
+    "total_tokens": 3213
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1372x1147"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white mug on a clean transparent background."
+  }
+ },
+ "C02": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 26785.0,
+   "bytes": 1515207,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1484,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 27
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2856
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white mug on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 30983.0,
+   "bytes": 1453346,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1484,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 27
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2856
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the white mug on a clean transparent background."
+  }
+ },
+ "C03": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 27417.8,
+   "bytes": 1789879,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2084
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the bicycle on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 39404.7,
+   "bytes": 1733523,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2855
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the bicycle on a clean transparent background."
+  }
+ },
+ "C04": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 40198.9,
+   "bytes": 2209274,
+   "width": 1672,
+   "height": 941,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1535,
+    "input_tokens_details": {
+     "image_tokens": 1508,
+     "text_tokens": 27
+    },
+    "output_tokens": 1158,
+    "output_tokens_details": {
+     "image_tokens": 1158,
+     "text_tokens": 0
+    },
+    "total_tokens": 2693
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1672x941"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the decorated bicycle on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 42036.8,
+   "bytes": 3136476,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1535,
+    "input_tokens_details": {
+     "image_tokens": 1508,
+     "text_tokens": 27
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2907
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the decorated bicycle on a clean transparent background."
+  }
+ },
+ "C05": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 30309.1,
+   "bytes": 1161690,
+   "width": 1047,
+   "height": 1502,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1501,
+    "input_tokens_details": {
+     "image_tokens": 1472,
+     "text_tokens": 29
+    },
+    "output_tokens": 1415,
+    "output_tokens_details": {
+     "image_tokens": 1415,
+     "text_tokens": 0
+    },
+    "total_tokens": 2916
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1047x1502"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the stack of yellow chairs on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 36681.7,
+   "bytes": 1354147,
+   "width": 1047,
+   "height": 1502,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1501,
+    "input_tokens_details": {
+     "image_tokens": 1472,
+     "text_tokens": 29
+    },
+    "output_tokens": 1415,
+    "output_tokens_details": {
+     "image_tokens": 1415,
+     "text_tokens": 0
+    },
+    "total_tokens": 2916
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1047x1502"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the stack of yellow chairs on a clean transparent background."
+  }
+ },
+ "C06": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 32120.0,
+   "bytes": 2906764,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1488,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 31
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2860
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the chairs tangled in barbed wire on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 44189.3,
+   "bytes": 2877695,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1488,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 31
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2860
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the chairs tangled in barbed wire on a clean transparent background."
+  }
+ },
+ "C07": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 30152.0,
+   "bytes": 936302,
+   "width": 1537,
+   "height": 1023,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2855
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1537x1023"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the scissors on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 38356.8,
+   "bytes": 1079041,
+   "width": 1537,
+   "height": 1023,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2855
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1537x1023"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the scissors on a clean transparent background."
+  }
+ },
+ "C08": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 24309.1,
+   "bytes": 1375580,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2084
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the scissors on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 31933.9,
+   "bytes": 1503838,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2855
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the scissors on a clean transparent background."
+  }
+ },
+ "D01": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 28229.8,
+   "bytes": 1033667,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1484,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 27
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2856
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the perfume bottle on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 27880.2,
+   "bytes": 1025656,
+   "width": 1323,
+   "height": 1189,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1484,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 27
+    },
+    "output_tokens": 829,
+    "output_tokens_details": {
+     "image_tokens": 829,
+     "text_tokens": 0
+    },
+    "total_tokens": 2313
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1323x1189"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the perfume bottle on a clean transparent background."
+  }
+ },
+ "D02": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 26136.0,
+   "bytes": 1382864,
+   "width": 1046,
+   "height": 1504,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1499,
+    "input_tokens_details": {
+     "image_tokens": 1472,
+     "text_tokens": 27
+    },
+    "output_tokens": 629,
+    "output_tokens_details": {
+     "image_tokens": 629,
+     "text_tokens": 0
+    },
+    "total_tokens": 2128
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1046x1504"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the perfume bottle on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 40971.2,
+   "bytes": 1406775,
+   "width": 1159,
+   "height": 1358,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1499,
+    "input_tokens_details": {
+     "image_tokens": 1472,
+     "text_tokens": 27
+    },
+    "output_tokens": 1759,
+    "output_tokens_details": {
+     "image_tokens": 1759,
+     "text_tokens": 0
+    },
+    "total_tokens": 3258
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1159x1358"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the perfume bottle on a clean transparent background."
+  }
+ },
+ "D03": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 34658.6,
+   "bytes": 2170645,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1484,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 27
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2856
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the wine glasses on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 28590.6,
+   "bytes": 2370327,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1484,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 27
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2085
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the wine glasses on a clean transparent background."
+  }
+ },
+ "D04": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 42156.5,
+   "bytes": 1907754,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1487,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 30
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2859
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the wine glass and the pour on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 48720.1,
+   "bytes": 1779589,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1487,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 30
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2859
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the wine glass and the pour on a clean transparent background."
+  }
+ },
+ "D05": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 26234.8,
+   "bytes": 934459,
+   "width": 1254,
+   "height": 1254,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1549,
+    "input_tokens_details": {
+     "image_tokens": 1521,
+     "text_tokens": 28
+    },
+    "output_tokens": 915,
+    "output_tokens_details": {
+     "image_tokens": 915,
+     "text_tokens": 0
+    },
+    "total_tokens": 2464
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1254x1254"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the empty glass jar on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 29527.7,
+   "bytes": 1147497,
+   "width": 1254,
+   "height": 1254,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1549,
+    "input_tokens_details": {
+     "image_tokens": 1521,
+     "text_tokens": 28
+    },
+    "output_tokens": 915,
+    "output_tokens_details": {
+     "image_tokens": 915,
+     "text_tokens": 0
+    },
+    "total_tokens": 2464
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1254x1254"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the empty glass jar on a clean transparent background."
+  }
+ },
+ "D06": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 22848.0,
+   "bytes": 663869,
+   "width": 1313,
+   "height": 1198,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1545,
+    "input_tokens_details": {
+     "image_tokens": 1517,
+     "text_tokens": 28
+    },
+    "output_tokens": 829,
+    "output_tokens_details": {
+     "image_tokens": 829,
+     "text_tokens": 0
+    },
+    "total_tokens": 2374
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1313x1198"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the amber glass bottle on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 25887.4,
+   "bytes": 877663,
+   "width": 1313,
+   "height": 1198,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1545,
+    "input_tokens_details": {
+     "image_tokens": 1517,
+     "text_tokens": 28
+    },
+    "output_tokens": 829,
+    "output_tokens_details": {
+     "image_tokens": 829,
+     "text_tokens": 0
+    },
+    "total_tokens": 2374
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1313x1198"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the amber glass bottle on a clean transparent background."
+  }
+ },
+ "D07": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 31138.5,
+   "bytes": 320797,
+   "width": 1023,
+   "height": 1537,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2855
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1023x1537"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the sunglasses on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 40620.7,
+   "bytes": 493607,
+   "width": 1247,
+   "height": 1261,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 2015,
+    "output_tokens_details": {
+     "image_tokens": 2015,
+     "text_tokens": 0
+    },
+    "total_tokens": 3498
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1247x1261"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the sunglasses on a clean transparent background."
+  }
+ },
+ "D08": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 33865.1,
+   "bytes": 1533759,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1486,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 29
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2087
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the two pairs of sunglasses on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 28587.0,
+   "bytes": 1537016,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1486,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 29
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2087
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the two pairs of sunglasses on a clean transparent background."
+  }
+ },
+ "E01": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 31740.3,
+   "bytes": 2657723,
+   "width": 1063,
+   "height": 1479,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1544,
+    "input_tokens_details": {
+     "image_tokens": 1518,
+     "text_tokens": 26
+    },
+    "output_tokens": 1458,
+    "output_tokens_details": {
+     "image_tokens": 1458,
+     "text_tokens": 0
+    },
+    "total_tokens": 3002
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1063x1479"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the dog on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 39484.0,
+   "bytes": 3042854,
+   "width": 1063,
+   "height": 1479,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1544,
+    "input_tokens_details": {
+     "image_tokens": 1518,
+     "text_tokens": 26
+    },
+    "output_tokens": 658,
+    "output_tokens_details": {
+     "image_tokens": 658,
+     "text_tokens": 0
+    },
+    "total_tokens": 2202
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1063x1479"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the dog on a clean transparent background."
+  }
+ },
+ "E02": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 33388.8,
+   "bytes": 2037225,
+   "width": 1025,
+   "height": 1534,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1530,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 26
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2902
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1025x1534"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the dog on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 41542.7,
+   "bytes": 2112299,
+   "width": 1025,
+   "height": 1535,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1530,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 26
+    },
+    "output_tokens": 1373,
+    "output_tokens_details": {
+     "image_tokens": 1373,
+     "text_tokens": 0
+    },
+    "total_tokens": 2903
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1025x1535"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the dog on a clean transparent background."
+  }
+ },
+ "E03": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 25819.2,
+   "bytes": 2687978,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2084
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the cat on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 28475.3,
+   "bytes": 2667181,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2084
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the cat on a clean transparent background."
+  }
+ },
+ "E04": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 31371.0,
+   "bytes": 2331723,
+   "width": 1025,
+   "height": 1535,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1530,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 26
+    },
+    "output_tokens": 1373,
+    "output_tokens_details": {
+     "image_tokens": 1373,
+     "text_tokens": 0
+    },
+    "total_tokens": 2903
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1025x1535"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the cat on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 39350.1,
+   "bytes": 2424327,
+   "width": 1024,
+   "height": 1535,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1530,
+    "input_tokens_details": {
+     "image_tokens": 1504,
+     "text_tokens": 26
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2902
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1535"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the cat on a clean transparent background."
+  }
+ },
+ "E05": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 29027.0,
+   "bytes": 2307020,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2855
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the woman on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 39914.4,
+   "bytes": 2525823,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2855
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the woman on a clean transparent background."
+  }
+ },
+ "E06": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 26622.8,
+   "bytes": 2790592,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2084
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the woman on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 39827.2,
+   "bytes": 3036248,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1483,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 26
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2855
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the woman on a clean transparent background."
+  }
+ },
+ "E07": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 27198.5,
+   "bytes": 2077638,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1485,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 28
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2857
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the potted tree on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 32507.3,
+   "bytes": 2408480,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1485,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 28
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2857
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the potted tree on a clean transparent background."
+  }
+ },
+ "E08": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 34850.9,
+   "bytes": 2609577,
+   "width": 1554,
+   "height": 1012,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1518,
+    "input_tokens_details": {
+     "image_tokens": 1488,
+     "text_tokens": 30
+    },
+    "output_tokens": 1330,
+    "output_tokens_details": {
+     "image_tokens": 1330,
+     "text_tokens": 0
+    },
+    "total_tokens": 2848
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1554x1012"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the row of potted plants on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 39782.4,
+   "bytes": 3233340,
+   "width": 1554,
+   "height": 1012,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1518,
+    "input_tokens_details": {
+     "image_tokens": 1488,
+     "text_tokens": 30
+    },
+    "output_tokens": 1330,
+    "output_tokens_details": {
+     "image_tokens": 1330,
+     "text_tokens": 0
+    },
+    "total_tokens": 2848
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1554x1012"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the row of potted plants on a clean transparent background."
+  }
+ },
+ "F01": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 28233.4,
+   "bytes": 1267057,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1492,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 35
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2864
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the dropper bottle (with or without the hands) on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 44547.1,
+   "bytes": 906479,
+   "width": 1023,
+   "height": 1537,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1492,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 35
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2864
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1023x1537"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the dropper bottle (with or without the hands) on a clean transparent background."
+  }
+ },
+ "F02": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 31276.5,
+   "bytes": 1960419,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1490,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 33
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2862
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the jar (with or without the hand) on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 36976.4,
+   "bytes": 1035037,
+   "width": 1207,
+   "height": 1303,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1490,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 33
+    },
+    "output_tokens": 1887,
+    "output_tokens_details": {
+     "image_tokens": 1887,
+     "text_tokens": 0
+    },
+    "total_tokens": 3377
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1207x1303"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the jar (with or without the hand) on a clean transparent background."
+  }
+ },
+ "F03": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 35737.1,
+   "bytes": 2948026,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1484,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 27
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2085
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the raised drinks on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 42400.6,
+   "bytes": 2911263,
+   "width": 1024,
+   "height": 1536,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1484,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 27
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2856
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1024x1536"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the raised drinks on a clean transparent background."
+  }
+ },
+ "F04": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 35111.9,
+   "bytes": 1918049,
+   "width": 1555,
+   "height": 1011,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1515,
+    "input_tokens_details": {
+     "image_tokens": 1488,
+     "text_tokens": 27
+    },
+    "output_tokens": 1329,
+    "output_tokens_details": {
+     "image_tokens": 1329,
+     "text_tokens": 0
+    },
+    "total_tokens": 2844
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1555x1011"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the raised cocktails on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 38011.0,
+   "bytes": 1798538,
+   "width": 1555,
+   "height": 1011,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1515,
+    "input_tokens_details": {
+     "image_tokens": 1488,
+     "text_tokens": 27
+    },
+    "output_tokens": 1329,
+    "output_tokens_details": {
+     "image_tokens": 1329,
+     "text_tokens": 0
+    },
+    "total_tokens": 2844
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1555x1011"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the raised cocktails on a clean transparent background."
+  }
+ },
+ "F05": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 43838.2,
+   "bytes": 3158602,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1485,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 28
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2857
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the plates of food on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 33406.5,
+   "bytes": 3204959,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1485,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 28
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2086
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the plates of food on a clean transparent background."
+  }
+ },
+ "F06": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 24868.4,
+   "bytes": 2667109,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1486,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 29
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2087
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the breakfast bowls and plates on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 30601.4,
+   "bytes": 2813411,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1486,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 29
+    },
+    "output_tokens": 601,
+    "output_tokens_details": {
+     "image_tokens": 601,
+     "text_tokens": 0
+    },
+    "total_tokens": 2087
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "medium",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the breakfast bowls and plates on a clean transparent background."
+  }
+ },
+ "F07": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 32857.7,
+   "bytes": 2114263,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1486,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 29
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2858
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the products on the shelf on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 51457.6,
+   "bytes": 2892235,
+   "width": 1536,
+   "height": 1024,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1486,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 29
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2858
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1536x1024"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the products on the shelf on a clean transparent background."
+  }
+ },
+ "F08": {
+  "gpt_flare_edit": {
+   "status": "success",
+   "latency_ms": 43334.8,
+   "bytes": 2988563,
+   "width": 1537,
+   "height": 1023,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1486,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 29
+    },
+    "output_tokens": 1372,
+    "output_tokens_details": {
+     "image_tokens": 1372,
+     "text_tokens": 0
+    },
+    "total_tokens": 2858
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1537x1023"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the products on the shelves on a clean transparent background."
+  },
+  "gpt_sunburst_edit": {
+   "status": "success",
+   "latency_ms": 52947.0,
+   "bytes": 3345323,
+   "width": 1538,
+   "height": 1023,
+   "mode": "RGBA",
+   "has_alpha": true,
+   "usage": {
+    "input_tokens": 1486,
+    "input_tokens_details": {
+     "image_tokens": 1457,
+     "text_tokens": 29
+    },
+    "output_tokens": 1373,
+    "output_tokens_details": {
+     "image_tokens": 1373,
+     "text_tokens": 0
+    },
+    "total_tokens": 2859
+   },
+   "response_fields": {
+    "background": "transparent",
+    "output_format": "png",
+    "quality": "high",
+    "size": "1538x1023"
+   },
+   "params": {
+    "background": "transparent",
+    "output_format": "png",
+    "size": "auto",
+    "n": "1"
+   },
+   "prompt": "Isolate the products on the shelves on a clean transparent background."
+  }
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "cutout_labs": {
+  "compared": 49,
+  "median_aligned_mean_abs_diff": 1.1,
+  "median_aligned_pct_within_20": 100.0
+ },
+ "gpt_flare_edit": {
+  "compared": 49,
+  "median_aligned_mean_abs_diff": 33.0,
+  "median_aligned_pct_within_20": 44.3
+ },
+ "gpt_sunburst_edit": {
+  "compared": 49,
+  "median_aligned_mean_abs_diff": 38.3,
+  "median_aligned_pct_within_20": 43.4
+ }
+}

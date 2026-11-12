@@ -1,0 +1,90 @@
+[
+ {
+  "engine": "cutout_labs",
+  "label": "Cutout Labs (standard segmentation engine)",
+  "succeeded": 50,
+  "of": 50,
+  "background": {
+   "real alpha": 50
+  },
+  "full_resolution": 50,
+  "aspect_ratio_kept": 50,
+  "latency_s": {
+   "median": 5.2,
+   "p90": 6.6,
+   "min": 2.8,
+   "max": 7.9
+  }
+ },
+ {
+  "engine": "gemini_2_5",
+  "label": "Gemini 2.5 Flash Image",
+  "succeeded": 50,
+  "of": 50,
+  "background": {
+   "painted checkerboard": 37,
+   "solid white": 7,
+   "other opaque background": 6
+  },
+  "full_resolution": 0,
+  "aspect_ratio_kept": 43,
+  "latency_s": {
+   "median": 11.4,
+   "p90": 15.2,
+   "min": 9.8,
+   "max": 25.9
+  }
+ },
+ {
+  "engine": "gemini_3_1",
+  "label": "Gemini 3.1 Flash Image (Nano Banana 2)",
+  "succeeded": 50,
+  "of": 50,
+  "background": {
+   "painted checkerboard": 48,
+   "other opaque background": 2
+  },
+  "full_resolution": 0,
+  "aspect_ratio_kept": 50,
+  "latency_s": {
+   "median": 11.6,
+   "p90": 13.5,
+   "min": 9.1,
+   "max": 22.0
+  }
+ },
+ {
+  "engine": "gpt_flare_edit",
+  "label": "gpt-image-2.5-flare (Azure, edit)",
+  "succeeded": 50,
+  "of": 50,
+  "background": {
+   "real alpha": 50
+  },
+  "full_resolution": 0,
+  "aspect_ratio_kept": 50,
+  "latency_s": {
+   "median": 30.2,
+   "p90": 35.5,
+   "min": 19.0,
+   "max": 43.8
+  }
+ },
+ {
+  "engine": "gpt_sunburst_edit",
+  "label": "gpt-image-2.5-sunburst (Azure, edit)",
+  "succeeded": 50,
+  "of": 50,
+  "background": {
+   "real alpha": 50
+  },
+  "full_resolution": 0,
+  "aspect_ratio_kept": 35,
+  "latency_s": {
+   "median": 37.0,
+   "p90": 45.3,
+   "min": 24.9,
+   "max": 52.9
+  }
+ }
+]

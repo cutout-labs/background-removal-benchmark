@@ -1,0 +1,57 @@
+# Unsplash photo IDs excluded from selection (rule 4).
+# Already used in Cutout Labs samples, blog posts, or earlier tests, or seen while choosing them.
+
+# Site samples
+164_6wVEHfI      sneaker (product sample)
+mEZ3PoFGs_k      portrait sample
+O-sNTavXbmE      hair sample (homepage hero)
+qO-PIF84Vxg      pet sample
+Fg15LdqpWrs      clothing sample
+_qxbJUr9RqI      food sample (burger)
+DJ3dx5MoUIw      furniture sample (wicker chair)
+srr3SawW_gc      Ghost Hand post (hand with can)
+photo-1485955900006-10f4d324d411  detail sample (succulent)
+
+# Limitations blog post, shown or described
+QxRQKvK5ey4
+VgCx9H8JoFI
+MGdKoyLdVmY
+bFIg-ML-eCY
+Hc6MQLgCVtc
+6xNm6ZQOAxk
+us-aHozOBQs
+n42ogaQn32o
+e3uShNVc73k
+W3hlvVs297g
+3xtCeUhqZWE
+Y-CSSwcS5co
+lDAkoo6TpWE
+cSeCb6D_V4w
+IUTOYh2lK5o
+7PXe231G2wg
+iq3o70fpMsU
+CF0xtRfFNiE
+awj7sRviVXo
+
+# Tested or viewed while choosing samples on 2026-11-11/12
+20e5uGmm2Es
+sI5bIf8NCNk
+M-svG1XYiHs
+sc5sTPMrVfk
+jh5XyK4Rr3Y
+7mmmEkyk0aQ
+0CbrkxUVUbE
+qM6R-UDY0fw
+CgjBaRKroEY
+VGjfz9mtlbg
+tMU4qVh8vXo
+UuuaGGNa2_o
+rTm9vY89NE4
+9pbe-tJFRaU
+1AhGNGKuhR0
+1iiq1scZLfU
+tuoBNgI5uLA
+1zj97uPb-sA
+nIbbaTMI6cY
+DsGeUBaJPwc
+73pyV0JJOmE

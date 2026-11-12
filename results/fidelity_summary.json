@@ -1,0 +1,32 @@
+{
+ "cutout_labs": {
+  "compared": 49,
+  "skipped_aspect_or_empty": 1,
+  "median_mean_abs_diff": 2.3,
+  "median_pct_pixels_within_20": 99.1
+ },
+ "gemini_2_5": {
+  "compared": 42,
+  "skipped_aspect_or_empty": 8,
+  "median_mean_abs_diff": 27.6,
+  "median_pct_pixels_within_20": 63.1
+ },
+ "gemini_3_1": {
+  "compared": 49,
+  "skipped_aspect_or_empty": 1,
+  "median_mean_abs_diff": 10.5,
+  "median_pct_pixels_within_20": 87.1
+ },
+ "gpt_flare_edit": {
+  "compared": 49,
+  "skipped_aspect_or_empty": 1,
+  "median_mean_abs_diff": 38.6,
+  "median_pct_pixels_within_20": 39.6
+ },
+ "gpt_sunburst_edit": {
+  "compared": 34,
+  "skipped_aspect_or_empty": 16,
+  "median_mean_abs_diff": 46.4,
+  "median_pct_pixels_within_20": 31.0
+ }
+}

@@ -1,0 +1,2052 @@
+{
+ "A01": {
+  "id": "A01",
+  "category": "A",
+  "tags": "",
+  "intended_subject": "the pair of sneakers",
+  "prompt": "Isolate the pair of sneakers on a clean transparent background.",
+  "input_w": 1638,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 6481.1,
+    "engine_time_ms": 5944.0,
+    "width": 1638,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 881617
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 12744.3,
+    "mime_type": "image/png",
+    "width": 896,
+    "height": 1152,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1547249
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 9343.8,
+    "mime_type": "image/jpeg",
+    "width": 921,
+    "height": 1152,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 611749
+   }
+  }
+ },
+ "A02": {
+  "id": "A02",
+  "category": "A",
+  "tags": "text",
+  "intended_subject": "the maroon sneaker",
+  "prompt": "Isolate the maroon sneaker on a clean transparent background.",
+  "input_w": 1404,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 4435.4,
+    "engine_time_ms": 3862.0,
+    "width": 1404,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1060200
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 12685.7,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1404348
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 9352.8,
+    "mime_type": "image/jpeg",
+    "width": 848,
+    "height": 1237,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 723637
+   }
+  }
+ },
+ "A03": {
+  "id": "A03",
+  "category": "A",
+  "tags": "",
+  "intended_subject": "the headphones",
+  "prompt": "Isolate the headphones on a clean transparent background.",
+  "input_w": 1367,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 3972.8,
+    "engine_time_ms": 3287.0,
+    "width": 1367,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 530200
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 11943.8,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 713441
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 9099.2,
+    "mime_type": "image/jpeg",
+    "width": 844,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 510851
+   }
+  }
+ },
+ "A04": {
+  "id": "A04",
+  "category": "A",
+  "tags": "",
+  "intended_subject": "the headphones",
+  "prompt": "Isolate the headphones on a clean transparent background.",
+  "input_w": 1152,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5635.7,
+    "engine_time_ms": 4966.0,
+    "width": 1152,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 453217
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 15246.5,
+    "mime_type": "image/png",
+    "width": 768,
+    "height": 1344,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 910994
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 9692.6,
+    "mime_type": "image/jpeg",
+    "width": 768,
+    "height": 1365,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 659756
+   }
+  }
+ },
+ "A05": {
+  "id": "A05",
+  "category": "A",
+  "tags": "text",
+  "intended_subject": "the wristwatch",
+  "prompt": "Isolate the wristwatch on a clean transparent background.",
+  "input_w": 1367,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 3808.3,
+    "engine_time_ms": 3032.0,
+    "width": 1367,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 804481
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 11202.8,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1472213
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 10746.1,
+    "mime_type": "image/jpeg",
+    "width": 844,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 601136
+   }
+  }
+ },
+ "A06": {
+  "id": "A06",
+  "category": "A",
+  "tags": "text",
+  "intended_subject": "the wristwatch",
+  "prompt": "Isolate the wristwatch on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 2844.9,
+    "engine_time_ms": 1966.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 826531
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 12400.6,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 700167
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 13352.3,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 847752
+   }
+  }
+ },
+ "A07": {
+  "id": "A07",
+  "category": "A",
+  "tags": "",
+  "intended_subject": "the backpack",
+  "prompt": "Isolate the backpack on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1365,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 3294.8,
+    "engine_time_ms": 2091.0,
+    "width": 2048,
+    "height": 1365,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1040773
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10857.8,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1512267
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 12904.8,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 842,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 571263
+   }
+  }
+ },
+ "A08": {
+  "id": "A08",
+  "category": "A",
+  "tags": "",
+  "intended_subject": "the two backpacks",
+  "prompt": "Isolate the two backpacks on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1367,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5226.1,
+    "engine_time_ms": 3565.0,
+    "width": 2048,
+    "height": 1367,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1696386
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10852.3,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1608523
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 10827.4,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 844,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 554849
+   }
+  }
+ },
+ "A09": {
+  "id": "A09",
+  "category": "A",
+  "tags": "text",
+  "intended_subject": "the spray bottle",
+  "prompt": "Isolate the spray bottle on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 4540.4,
+    "engine_time_ms": 3125.0,
+    "width": 2048,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1081889
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 12921.1,
+    "mime_type": "image/jpeg",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 371463
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 13633.2,
+    "mime_type": "image/png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1262279
+   }
+  }
+ },
+ "A10": {
+  "id": "A10",
+  "category": "A",
+  "tags": "text",
+  "intended_subject": "the two dropper bottles",
+  "prompt": "Isolate the two dropper bottles on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1536,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 6945.9,
+    "engine_time_ms": 5267.0,
+    "width": 2048,
+    "height": 1536,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 821669
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 11393.4,
+    "mime_type": "image/png",
+    "width": 1184,
+    "height": 864,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1507580
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 12338.8,
+    "mime_type": "image/jpeg",
+    "width": 1195,
+    "height": 896,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 631168
+   }
+  }
+ },
+ "B01": {
+  "id": "B01",
+  "category": "B",
+  "tags": "",
+  "intended_subject": "the white vase",
+  "prompt": "Isolate the white vase on a clean transparent background.",
+  "input_w": 1366,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 4912.9,
+    "engine_time_ms": 3509.0,
+    "width": 1366,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 200841
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 10481.0,
+    "mime_type": "image/jpeg",
+    "width": 843,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 484756
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10987.9,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1118995
+   }
+  }
+ },
+ "B02": {
+  "id": "B02",
+  "category": "B",
+  "tags": "",
+  "intended_subject": "the white vase",
+  "prompt": "Isolate the white vase on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1639,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 6267.5,
+    "engine_time_ms": 5075.0,
+    "width": 2048,
+    "height": 1639,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 386917
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 9769.7,
+    "mime_type": "image/jpeg",
+    "width": 1152,
+    "height": 922,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 696280
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10202.4,
+    "mime_type": "image/png",
+    "width": 1152,
+    "height": 896,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 955051
+   }
+  }
+ },
+ "B03": {
+  "id": "B03",
+  "category": "B",
+  "tags": "hand",
+  "intended_subject": "the white textured vase",
+  "prompt": "Isolate the white textured vase on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5177.8,
+    "engine_time_ms": 3927.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1263186
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 11543.4,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 620222
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 13988.2,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1593243
+   }
+  }
+ },
+ "B04": {
+  "id": "B04",
+  "category": "B",
+  "tags": "",
+  "intended_subject": "the white vase with eucalyptus",
+  "prompt": "Isolate the white vase with eucalyptus on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5030.1,
+    "engine_time_ms": 3874.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 222584
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10688.6,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1389235
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 10857.5,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 394593
+   }
+  }
+ },
+ "B05": {
+  "id": "B05",
+  "category": "B",
+  "tags": "",
+  "intended_subject": "the white candle in its holder",
+  "prompt": "Isolate the white candle in its holder on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5931.2,
+    "engine_time_ms": 4652.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 686015
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 9922.9,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1353583
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 10065.1,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 564820
+   }
+  }
+ },
+ "B06": {
+  "id": "B06",
+  "category": "B",
+  "tags": "",
+  "intended_subject": "the four white candles",
+  "prompt": "Isolate the four white candles on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1399,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5653.4,
+    "engine_time_ms": 4470.0,
+    "width": 2048,
+    "height": 1399,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 194887
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 10649.3,
+    "mime_type": "image/jpeg",
+    "width": 1241,
+    "height": 848,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 773607
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 11326.9,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1079229
+   }
+  }
+ },
+ "B07": {
+  "id": "B07",
+  "category": "B",
+  "tags": "",
+  "intended_subject": "the stack of folded t-shirts",
+  "prompt": "Isolate the stack of folded t-shirts on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1366,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 4549.0,
+    "engine_time_ms": 3309.0,
+    "width": 2048,
+    "height": 1366,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 942609
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 10556.5,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 843,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 578170
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 13793.7,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1303622
+   }
+  }
+ },
+ "B08": {
+  "id": "B08",
+  "category": "B",
+  "tags": "text",
+  "intended_subject": "the earbuds and their case",
+  "prompt": "Isolate the earbuds and their case on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1366,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 6342.6,
+    "engine_time_ms": 4491.0,
+    "width": 2048,
+    "height": 1366,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 849640
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 10846.1,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 843,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 528670
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 11870.4,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1279822
+   }
+  }
+ },
+ "C01": {
+  "id": "C01",
+  "category": "C",
+  "tags": "",
+  "intended_subject": "the white mug",
+  "prompt": "Isolate the white mug on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1269,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5453.8,
+    "engine_time_ms": 3828.0,
+    "width": 2048,
+    "height": 1269,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 836463
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10827.7,
+    "mime_type": "image/png",
+    "width": 1280,
+    "height": 800,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1325588
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 11789.6,
+    "mime_type": "image/jpeg",
+    "width": 1312,
+    "height": 813,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 471582
+   }
+  }
+ },
+ "C02": {
+  "id": "C02",
+  "category": "C",
+  "tags": "",
+  "intended_subject": "the white mug",
+  "prompt": "Isolate the white mug on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1365,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 4920.7,
+    "engine_time_ms": 3362.0,
+    "width": 2048,
+    "height": 1365,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 211356
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 10469.2,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 842,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 609321
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 11410.2,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1220174
+   }
+  }
+ },
+ "C03": {
+  "id": "C03",
+  "category": "C",
+  "tags": "text",
+  "intended_subject": "the bicycle",
+  "prompt": "Isolate the bicycle on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 3658.4,
+    "engine_time_ms": 2041.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 795376
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10868.3,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1746135
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 12013.1,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 543651
+   }
+  }
+ },
+ "C04": {
+  "id": "C04",
+  "category": "C",
+  "tags": "text",
+  "intended_subject": "the decorated bicycle",
+  "prompt": "Isolate the decorated bicycle on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1152,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5813.9,
+    "engine_time_ms": 4206.0,
+    "width": 2048,
+    "height": 1152,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 632191
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 20669.3,
+    "mime_type": "image/jpeg",
+    "width": 1365,
+    "height": 768,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 773313
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 23040.1,
+    "mime_type": "image/png",
+    "width": 1344,
+    "height": 768,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1184005
+   }
+  }
+ },
+ "C05": {
+  "id": "C05",
+  "category": "C",
+  "tags": "",
+  "intended_subject": "the stack of yellow chairs",
+  "prompt": "Isolate the stack of yellow chairs on a clean transparent background.",
+  "input_w": 1427,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5416.1,
+    "engine_time_ms": 2722.0,
+    "width": 1427,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 838675
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 12670.3,
+    "mime_type": "image/jpeg",
+    "width": 864,
+    "height": 1240,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 556046
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 14423.9,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1140571
+   }
+  }
+ },
+ "C06": {
+  "id": "C06",
+  "category": "C",
+  "tags": "",
+  "intended_subject": "the chairs tangled in barbed wire",
+  "prompt": "Isolate the chairs tangled in barbed wire on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 3719.9,
+    "engine_time_ms": 2022.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1043545
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 11249.2,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 2307533
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 11687.2,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 772467
+   }
+  }
+ },
+ "C07": {
+  "id": "C07",
+  "category": "C",
+  "tags": "",
+  "intended_subject": "the scissors",
+  "prompt": "Isolate the scissors on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1362,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5571.3,
+    "engine_time_ms": 4044.0,
+    "width": 2048,
+    "height": 1362,
+    "mode": "LA",
+    "has_alpha": true,
+    "bytes": 337864
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10406.5,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1193075
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 11621.0,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 841,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 474597
+   }
+  }
+ },
+ "C08": {
+  "id": "C08",
+  "category": "C",
+  "tags": "",
+  "intended_subject": "the scissors",
+  "prompt": "Isolate the scissors on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 6051.2,
+    "engine_time_ms": 4453.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 435164
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 9813.5,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 639405
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 15012.6,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1109408
+   }
+  }
+ },
+ "D01": {
+  "id": "D01",
+  "category": "D",
+  "tags": "text",
+  "intended_subject": "the perfume bottle",
+  "prompt": "Isolate the perfume bottle on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1365,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 4885.8,
+    "engine_time_ms": 3295.0,
+    "width": 2048,
+    "height": 1365,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 653602
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 9768.9,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 842,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 536229
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 13468.9,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 819787
+   }
+  }
+ },
+ "D02": {
+  "id": "D02",
+  "category": "D",
+  "tags": "text",
+  "intended_subject": "the perfume bottle",
+  "prompt": "Isolate the perfume bottle on a clean transparent background.",
+  "input_w": 1425,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 6714.3,
+    "engine_time_ms": 5122.0,
+    "width": 1425,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1327120
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10956.1,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1368637
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 11567.6,
+    "mime_type": "image/jpeg",
+    "width": 864,
+    "height": 1242,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 597896
+   }
+  }
+ },
+ "D03": {
+  "id": "D03",
+  "category": "D",
+  "tags": "hand,person",
+  "intended_subject": "the wine glasses",
+  "prompt": "Isolate the wine glasses on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1365,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 6577.0,
+    "engine_time_ms": 4389.0,
+    "width": 2048,
+    "height": 1365,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1039650
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10169.3,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1455196
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 11078.6,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 842,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 562722
+   }
+  }
+ },
+ "D04": {
+  "id": "D04",
+  "category": "D",
+  "tags": "",
+  "intended_subject": "the wine glass and the pour",
+  "prompt": "Isolate the wine glass and the pour on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 6640.5,
+    "engine_time_ms": 5216.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1062236
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 11283.6,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1774378
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 13530.2,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 526466
+   }
+  }
+ },
+ "D05": {
+  "id": "D05",
+  "category": "D",
+  "tags": "",
+  "intended_subject": "the empty glass jar",
+  "prompt": "Isolate the empty glass jar on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 3257.3,
+    "engine_time_ms": 1408.0,
+    "width": 2048,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 3308666
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 13981.7,
+    "mime_type": "image/jpeg",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 493392
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 15843.5,
+    "mime_type": "image/png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1076417
+   }
+  }
+ },
+ "D06": {
+  "id": "D06",
+  "category": "D",
+  "tags": "",
+  "intended_subject": "the amber glass bottle",
+  "prompt": "Isolate the amber glass bottle on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1868,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 4501.4,
+    "engine_time_ms": 3618.0,
+    "width": 2048,
+    "height": 1868,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 680277
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 9606.7,
+    "mime_type": "image/jpeg",
+    "width": 1088,
+    "height": 992,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 519658
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10058.0,
+    "mime_type": "image/png",
+    "width": 1056,
+    "height": 992,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1339395
+   }
+  }
+ },
+ "D07": {
+  "id": "D07",
+  "category": "D",
+  "tags": "",
+  "intended_subject": "the sunglasses",
+  "prompt": "Isolate the sunglasses on a clean transparent background.",
+  "input_w": 1363,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5185.6,
+    "engine_time_ms": 4143.0,
+    "width": 1363,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 243220
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 10067.3,
+    "mime_type": "image/jpeg",
+    "width": 841,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 519913
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 11458.5,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1194000
+   }
+  }
+ },
+ "D08": {
+  "id": "D08",
+  "category": "D",
+  "tags": "",
+  "intended_subject": "the two pairs of sunglasses",
+  "prompt": "Isolate the two pairs of sunglasses on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1365,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 2947.5,
+    "engine_time_ms": 1971.0,
+    "width": 2048,
+    "height": 1365,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 622209
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 11296.1,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1400189
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 11830.6,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 842,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 514980
+   }
+  }
+ },
+ "E01": {
+  "id": "E01",
+  "category": "E",
+  "tags": "animal",
+  "intended_subject": "the dog",
+  "prompt": "Isolate the dog on a clean transparent background.",
+  "input_w": 1471,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5117.8,
+    "engine_time_ms": 4199.0,
+    "width": 1471,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 2458335
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 12458.7,
+    "mime_type": "image/png",
+    "width": 864,
+    "height": 1184,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1919115
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 13045.9,
+    "mime_type": "image/jpeg",
+    "width": 873,
+    "height": 1216,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 706406
+   }
+  }
+ },
+ "E02": {
+  "id": "E02",
+  "category": "E",
+  "tags": "animal",
+  "intended_subject": "the dog",
+  "prompt": "Isolate the dog on a clean transparent background.",
+  "input_w": 1368,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 3157.9,
+    "engine_time_ms": 1656.0,
+    "width": 1368,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 676568
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 11011.6,
+    "mime_type": "image/jpeg",
+    "width": 844,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 515931
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 13420.6,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1314807
+   }
+  }
+ },
+ "E03": {
+  "id": "E03",
+  "category": "E",
+  "tags": "animal",
+  "intended_subject": "the cat",
+  "prompt": "Isolate the cat on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 4520.5,
+    "engine_time_ms": 3454.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1617084
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 9542.5,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 623669
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10527.5,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1784661
+   }
+  }
+ },
+ "E04": {
+  "id": "E04",
+  "category": "E",
+  "tags": "animal",
+  "intended_subject": "the cat",
+  "prompt": "Isolate the cat on a clean transparent background.",
+  "input_w": 1367,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 3895.0,
+    "engine_time_ms": 2811.0,
+    "width": 1367,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1414894
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 9834.0,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1785101
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 10538.8,
+    "mime_type": "image/jpeg",
+    "width": 844,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 621310
+   }
+  }
+ },
+ "E05": {
+  "id": "E05",
+  "category": "E",
+  "tags": "person",
+  "intended_subject": "the woman",
+  "prompt": "Isolate the woman on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 6116.4,
+    "engine_time_ms": 4804.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1850475
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 9315.2,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 549565
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10853.0,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1810127
+   }
+  }
+ },
+ "E06": {
+  "id": "E06",
+  "category": "E",
+  "tags": "person",
+  "intended_subject": "the woman",
+  "prompt": "Isolate the woman on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 4647.9,
+    "engine_time_ms": 3466.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 2229876
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 13195.9,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1945058
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 15151.5,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 682312
+   }
+  }
+ },
+ "E07": {
+  "id": "E07",
+  "category": "E",
+  "tags": "",
+  "intended_subject": "the potted tree",
+  "prompt": "Isolate the potted tree on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5565.5,
+    "engine_time_ms": 4464.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1023600
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 12637.7,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 572348
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 15362.0,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1458554
+   }
+  }
+ },
+ "E08": {
+  "id": "E08",
+  "category": "E",
+  "tags": "",
+  "intended_subject": "the row of potted plants",
+  "prompt": "Isolate the row of potted plants on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1334,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 3297.5,
+    "engine_time_ms": 1627.0,
+    "width": 2048,
+    "height": 1334,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1026809
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 12121.3,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 2467261
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 12453.6,
+    "mime_type": "image/jpeg",
+    "width": 1277,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 787384
+   }
+  }
+ },
+ "F01": {
+  "id": "F01",
+  "category": "F",
+  "tags": "hand,text",
+  "intended_subject": "the dropper bottle (with or without the hands)",
+  "prompt": "Isolate the dropper bottle (with or without the hands) on a clean transparent background.",
+  "input_w": 1362,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5857.5,
+    "engine_time_ms": 4752.0,
+    "width": 1362,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 116550
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10539.1,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1501863
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 11855.2,
+    "mime_type": "image/jpeg",
+    "width": 841,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 639268
+   }
+  }
+ },
+ "F02": {
+  "id": "F02",
+  "category": "F",
+  "tags": "hand,text",
+  "intended_subject": "the jar (with or without the hand)",
+  "prompt": "Isolate the jar (with or without the hand) on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5656.7,
+    "engine_time_ms": 4480.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 235912
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10408.2,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1545928
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 13480.4,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 602865
+   }
+  }
+ },
+ "F03": {
+  "id": "F03",
+  "category": "F",
+  "tags": "hand,person",
+  "intended_subject": "the raised drinks",
+  "prompt": "Isolate the raised drinks on a clean transparent background.",
+  "input_w": 1365,
+  "input_h": 2048,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5756.8,
+    "engine_time_ms": 4279.0,
+    "width": 1365,
+    "height": 2048,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1878593
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 11164.4,
+    "mime_type": "image/jpeg",
+    "width": 842,
+    "height": 1264,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 750926
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 13544.5,
+    "mime_type": "image/png",
+    "width": 832,
+    "height": 1248,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1781567
+   }
+  }
+ },
+ "F04": {
+  "id": "F04",
+  "category": "F",
+  "tags": "hand,person",
+  "intended_subject": "the raised cocktails",
+  "prompt": "Isolate the raised cocktails on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1331,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 3088.0,
+    "engine_time_ms": 1937.0,
+    "width": 2048,
+    "height": 1331,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 943603
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 11871.6,
+    "mime_type": "image/jpeg",
+    "width": 1280,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 653790
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 25879.2,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1870115
+   }
+  }
+ },
+ "F05": {
+  "id": "F05",
+  "category": "F",
+  "tags": "food,hand",
+  "intended_subject": "the plates of food",
+  "prompt": "Isolate the plates of food on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1365,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5379.5,
+    "engine_time_ms": 4243.0,
+    "width": 2048,
+    "height": 1365,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 2865381
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 11955.4,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 842,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 713752
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 11974.8,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1910239
+   }
+  }
+ },
+ "F06": {
+  "id": "F06",
+  "category": "F",
+  "tags": "food",
+  "intended_subject": "the breakfast bowls and plates",
+  "prompt": "Isolate the breakfast bowls and plates on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1365,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 7936.4,
+    "engine_time_ms": 3820.0,
+    "width": 2048,
+    "height": 1365,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 2725053
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 16097.3,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 842,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 694553
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 16263.4,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 1855960
+   }
+  }
+ },
+ "F07": {
+  "id": "F07",
+  "category": "F",
+  "tags": "text",
+  "intended_subject": "the products on the shelf",
+  "prompt": "Isolate the products on the shelf on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1365,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 7900.1,
+    "engine_time_ms": 5645.0,
+    "width": 2048,
+    "height": 1365,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 1291267
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 12891.2,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 842,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 691739
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 13460.3,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 2195807
+   }
+  }
+ },
+ "F08": {
+  "id": "F08",
+  "category": "F",
+  "tags": "text",
+  "intended_subject": "the products on the shelves",
+  "prompt": "Isolate the products on the shelves on a clean transparent background.",
+  "input_w": 2048,
+  "input_h": 1362,
+  "engines": {
+   "cutout_labs": {
+    "status": "success",
+    "latency_ms": 5783.8,
+    "engine_time_ms": 4292.0,
+    "width": 2048,
+    "height": 1362,
+    "mode": "RGBA",
+    "has_alpha": true,
+    "bytes": 157198
+   },
+   "gemini_2_5": {
+    "status": "success",
+    "latency_ms": 10869.4,
+    "mime_type": "image/png",
+    "width": 1248,
+    "height": 832,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 2355011
+   },
+   "gemini_3_1": {
+    "status": "success",
+    "latency_ms": 21988.4,
+    "mime_type": "image/jpeg",
+    "width": 1264,
+    "height": 841,
+    "mode": "RGB",
+    "has_alpha": false,
+    "bytes": 920913
+   }
+  }
+ }
+}

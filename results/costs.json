@@ -1,0 +1,27 @@
+{
+ "cutout_labs": {
+  "per_image": 0.0,
+  "total_50": 0.0,
+  "note": "free for now; paid plans will come later"
+ },
+ "gemini_2_5": {
+  "per_image": 0.0392,
+  "total_50": 1.9596,
+  "note": "input tiles of 768px at 258 tokens; output 1290 tokens at $30/1M"
+ },
+ "gemini_3_1": {
+  "per_image": 0.0678,
+  "total_50": 3.3884,
+  "note": "1120 input tokens per image; 1K output = 1120 tokens at $60/1M; excludes any thinking tokens"
+ },
+ "gpt_flare_edit": {
+  "per_image": 0.0462,
+  "total_50": 2.3121,
+  "note": "exact token usage from responses"
+ },
+ "gpt_sunburst_edit": {
+  "per_image": 0.0498,
+  "total_50": 2.488,
+  "note": "exact token usage from responses"
+ }
+}
